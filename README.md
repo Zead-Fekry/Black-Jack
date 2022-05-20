@@ -30,7 +30,6 @@ b. Update the player’s score.
 a. Hit until he either scores 21 (BLACKJACK), a score more than the maximum score of the 3 players
 or bust.
 4. Make decisions(someone WINS or it’s a PUSH) and end the game.
-The game is explained more and tested at the recorded lab’s video in this link: https://youtu.be/kNRdAsF1CQE
 
-Create a project named with “BlackJack” with a single package and make sure that the package created
-is named “blackjack”
+
+
