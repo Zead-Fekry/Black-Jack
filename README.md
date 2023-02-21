@@ -30,6 +30,6 @@ b. Update the player’s score.
 a. Hit until he either scores 21 (BLACKJACK), a score more than the maximum score of the 3 players
 or bust.
 4. Make decisions(someone WINS or it’s a PUSH) and end the game.
-
+169519299-42838cd7-8e33-486b-86f0-6d95ad1c2f85.png
 
 
