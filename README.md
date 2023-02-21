@@ -31,5 +31,7 @@ a. Hit until he either scores 21 (BLACKJACK), a score more than the maximum scor
 or bust.
 4. Make decisions(someone WINS or it’s a PUSH) and end the game.
 169519299-42838cd7-8e33-486b-86f0-6d95ad1c2f85.png
-
+![169519299-42838cd7-8e33-486b-86f0-6d95ad1c2f85](https://user-images.githubusercontent.com/77162607/220453507-ea938657-3d4e-45e1-8ad2-de61dee5516b.png)
+![169519676-65ea6485-ea2d-41de-9c1a-012e510dd8db](https://user-images.githubusercontent.com/77162607/220453512-5526c12c-0df7-4bce-9adb-5fc4f553f01b.jpg)
+![169519657-d6b74e66-71b6-4b6b-ac76-763e89df6f51](https://user-images.githubusercontent.com/77162607/220453513-c7b99a86-0b2e-4717-9ead-531ecf75a536.png)
 
